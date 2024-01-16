@@ -41,6 +41,12 @@ a         {
   margin-right: auto;
   }
 
+.mini1 {
+  width: 300px;
+  display: block;
+  margin-left: 0px;
+  }
+
 img {
   width: 600px;
   display: block;
